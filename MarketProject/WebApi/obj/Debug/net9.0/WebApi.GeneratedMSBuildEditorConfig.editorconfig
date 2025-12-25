@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApi
+build_property.RootNamespace = WebApi
+build_property.ProjectDir = C:\Users\MILENA\College\ZPD\Project\MarketProject\WebApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MILENA\College\ZPD\Project\MarketProject\WebApi
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Shoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Shoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Shoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Shoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MILENA/College/ZPD/Project/MarketProject/WebApi/Views/Shoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

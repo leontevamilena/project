@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF4EDB8-6B81-4C2E-BE2F-5F39BF1DB284}|WpfMarket\\WpfMarket.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\wpfmarket\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FAF4EDB8-6B81-4C2E-BE2F-5F39BF1DB284}|WpfMarket\\WpfMarket.csproj|solutionrelative:wpfmarket\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF4EDB8-6B81-4C2E-BE2F-5F39BF1DB284}|WpfMarket\\WpfMarket.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\wpfmarket\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF4EDB8-6B81-4C2E-BE2F-5F39BF1DB284}|WpfMarket\\WpfMarket.csproj|solutionrelative:wpfmarket\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\contexts\\marketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\contexts\\marketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B03EFEA-A133-4129-8425-D4BB74BF2967}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\models\\shoeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\models\\shoeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|c:\\users\\milena\\college\\zpd\\project\\marketproject\\marketlibrary\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ADE38B-ABA9-4374-87FA-ADC24FA01B9B}|MarketLibrary\\MarketLibrary.csproj|solutionrelative:marketlibrary\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WpfMarket\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfMarket\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WpfMarket\\MainWindow.xaml",
+              "RelativeToolTip": "WpfMarket\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-25T16:14:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WpfMarket\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMarket\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WpfMarket\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfMarket\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:14:24.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-25T11:27:06.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:59:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoesController.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Controllers\\ShoesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ShoesController.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Controllers\\ShoesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ShoesController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwIEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:40:15.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:39:36.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:34:28.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Contexts\\MarketDbContext.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Contexts\\MarketDbContext.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Contexts\\MarketDbContext.cs",
+              "RelativeToolTip": "MarketLibrary\\Contexts\\MarketDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:18:32.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Services\\AuthService.cs",
+              "RelativeToolTip": "MarketLibrary\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:22:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T10:33:12.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\Order.cs",
+              "RelativeToolTip": "MarketLibrary\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:19:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T10:32:43.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T10:31:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoeOrder.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\ShoeOrder.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Models\\ShoeOrder.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\ShoeOrder.cs",
+              "RelativeToolTip": "MarketLibrary\\Models\\ShoeOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:20:50.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Models\\Shoe.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\Shoe.cs",
+              "RelativeToolTip": "MarketLibrary\\Models\\Shoe.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:20:46.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\Category.cs",
+              "RelativeToolTip": "MarketLibrary\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:19:20.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "MarketLibrary\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\MarketLibrary\\Models\\UserRole.cs",
+              "RelativeToolTip": "MarketLibrary\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:19:55.653Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAlwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:02:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:02:06.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\Project\\MarketProject\\WebApi\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T11:01:30.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

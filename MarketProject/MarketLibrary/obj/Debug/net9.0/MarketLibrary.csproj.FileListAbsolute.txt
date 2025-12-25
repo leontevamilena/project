@@ -1,0 +1,14 @@
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\bin\Debug\net9.0\MarketLibrary.deps.json
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\bin\Debug\net9.0\MarketLibrary.runtimeconfig.json
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\bin\Debug\net9.0\MarketLibrary.dll
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\bin\Debug\net9.0\MarketLibrary.pdb
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.csproj.AssemblyReference.cache
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.AssemblyInfoInputs.cache
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.AssemblyInfo.cs
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.dll
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\refint\MarketLibrary.dll
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.pdb
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\MarketLibrary.genruntimeconfig.cache
+C:\Users\MILENA\College\ZPD\Project\MarketProject\MarketLibrary\obj\Debug\net9.0\ref\MarketLibrary.dll
