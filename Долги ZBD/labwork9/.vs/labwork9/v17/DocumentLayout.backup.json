@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork9\\labwork9\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE1C1F-20CE-4E28-83CD-4A19BC473B1D}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Models\\Ticket.cs",
+              "RelativeToolTip": "LabWork9\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:13:15.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Models\\Visitor.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Models\\Visitor.cs",
+              "RelativeToolTip": "LabWork9\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:13:15.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LabWork9\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:13:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Services\\VisitorService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\VisitorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:13:18.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Services\\TicketService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:13:18.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Services\\IService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:13:17.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Program.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork9\\LabWork9\\Program.cs",
+              "RelativeToolTip": "LabWork9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:12:32.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

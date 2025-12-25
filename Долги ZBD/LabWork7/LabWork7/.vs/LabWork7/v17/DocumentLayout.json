@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILENA\\College\\ZPD\\LabWork7-20251222T125025Z-3-001\\LabWork7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001D8B02-D2FF-4889-A3F2-08A92F7798DA}|LabWork7\\LabWork7.csproj|c:\\users\\milena\\college\\zpd\\labwork7-20251222t125025z-3-001\\labwork7\\labwork7\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001D8B02-D2FF-4889-A3F2-08A92F7798DA}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001D8B02-D2FF-4889-A3F2-08A92F7798DA}|LabWork7\\LabWork7.csproj|c:\\users\\milena\\college\\zpd\\labwork7-20251222t125025z-3-001\\labwork7\\labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001D8B02-D2FF-4889-A3F2-08A92F7798DA}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\LabWork7-20251222T125025Z-3-001\\LabWork7\\LabWork7\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "LabWork7\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\LabWork7-20251222T125025Z-3-001\\LabWork7\\LabWork7\\DataAccessLayer.cs",
+              "RelativeToolTip": "LabWork7\\DataAccessLayer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:54.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\LabWork7-20251222T125025Z-3-001\\LabWork7\\LabWork7\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork7\\Program.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\LabWork7-20251222T125025Z-3-001\\LabWork7\\LabWork7\\Program.cs",
+              "RelativeToolTip": "LabWork7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:16.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

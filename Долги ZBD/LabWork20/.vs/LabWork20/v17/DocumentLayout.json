@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\LabWork20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBA238B-BFF8-485E-A763-3CB67B9B5B2F}|CinemaApp\\CinemaApp.csproj|c:\\college\\labwork20\\cinemaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBA238B-BFF8-485E-A763-3CB67B9B5B2F}|CinemaApp\\CinemaApp.csproj|solutionrelative:cinemaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBA238B-BFF8-485E-A763-3CB67B9B5B2F}|CinemaApp\\CinemaApp.csproj|c:\\college\\labwork20\\cinemaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ABBA238B-BFF8-485E-A763-3CB67B9B5B2F}|CinemaApp\\CinemaApp.csproj|solutionrelative:cinemaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F41D2-9490-4100-9705-25DF90EA3A66}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\college\\labwork20\\cinemadblibrary\\models\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F41D2-9490-4100-9705-25DF90EA3A66}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\models\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\frames\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\frames\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|c:\\college\\labwork20\\labwork20\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6335D17-EE16-410B-8873-B92A17DA3B28}|LabWork20\\LabWork20.csproj|solutionrelative:labwork20\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0F41D2-9490-4100-9705-25DF90EA3A66}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\college\\labwork20\\cinemadblibrary\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0F41D2-9490-4100-9705-25DF90EA3A66}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T16:22:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:04:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\CinemaApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CinemaApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\CinemaApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CinemaApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:02:12.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Create.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Create.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:05:02.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:04:06.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:14:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Details.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:04:35.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T16:27:11.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Edit.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Edit.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Edit.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:04:35.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Create.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:04:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Edit.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Edit.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Edit.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:05:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\CinemaApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CinemaApp\\MainWindow.xaml",
+              "ToolTip": "C:\\college\\LabWork20\\CinemaApp\\MainWindow.xaml",
+              "RelativeToolTip": "CinemaApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-24T15:02:12.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Edit.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Edit.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:05:02.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Index.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Index.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:05:02.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frame.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\CinemaDbLibrary\\Models\\Frame.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Models\\Frame.cs",
+              "ToolTip": "C:\\college\\LabWork20\\CinemaDbLibrary\\Models\\Frame.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Models\\Frame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:12:29.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Create.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Create.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:05:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Index.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Index.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:05:02.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Program.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Program.cs",
+              "RelativeToolTip": "LabWork20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:15:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Delete.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Delete.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:05:02.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Details.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Details.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:05:02.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Delete.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Delete.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:05:02.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Frames\\Details.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Frames\\Details.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Frames\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:05:02.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Index.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:04:35.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Index.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:04:35.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Delete.cshtml.cs",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Delete.cshtml.cs",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:04:35.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:04:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Details.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:04:35.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabWork20\\Pages\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\college\\LabWork20\\LabWork20\\Pages\\Movies\\Create.cshtml",
+              "RelativeToolTip": "LabWork20\\Pages\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T15:04:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\college\\LabWork20\\CinemaDbLibrary\\Contexts\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Contexts\\CinemaDbContext.cs",
+              "ToolTip": "C:\\college\\LabWork20\\CinemaDbLibrary\\Contexts\\CinemaDbContext.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Contexts\\CinemaDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:00:07.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

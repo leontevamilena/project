@@ -1,0 +1,14 @@
+C:\college\LabWork20\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.deps.json
+C:\college\LabWork20\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.runtimeconfig.json
+C:\college\LabWork20\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.dll
+C:\college\LabWork20\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.pdb
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.csproj.AssemblyReference.cache
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.AssemblyInfoInputs.cache
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.AssemblyInfo.cs
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.csproj.CoreCompileInputs.cache
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.dll
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\refint\CinemaDbLibrary.dll
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.pdb
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.genruntimeconfig.cache
+C:\college\LabWork20\CinemaDbLibrary\obj\Debug\net9.0\ref\CinemaDbLibrary.dll

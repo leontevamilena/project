@@ -1,0 +1,14 @@
+﻿<Window x:Class="CinemaApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CinemaApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <ComboBox x:Name="MovieComboBox" DisplayMemberPath="Name" Width="200"/>
+        <Label/>
+        <Button x:Name="AddFrameButton" Content="Добавить кадр" Click="AddFrameButton_Click"/>
+    </StackPanel>
+</Window>

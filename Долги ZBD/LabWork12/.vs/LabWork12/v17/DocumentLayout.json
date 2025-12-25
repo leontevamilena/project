@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\LabWork12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\labwork12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\labwork12.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\dtos\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\dtos\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\contexts\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\contexts\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|c:\\college\\labwork12\\labwork12\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9392E39-35EB-4227-B59C-7C79121C2F51}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabWork12.sql",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\LabWork12.sql",
+              "RelativeDocumentMoniker": "LabWork12\\LabWork12.sql",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\LabWork12.sql",
+              "RelativeToolTip": "LabWork12\\LabWork12.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-24T14:26:48.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Program.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Program.cs",
+              "RelativeToolTip": "LabWork12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:05:24.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Services\\MovieService.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Services\\MovieService.cs",
+              "RelativeToolTip": "LabWork12\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:14:39.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Services\\SessionService.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Services\\SessionService.cs",
+              "RelativeToolTip": "LabWork12\\Services\\SessionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:14:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Services\\VisitorService.cs",
+              "RelativeToolTip": "LabWork12\\Services\\VisitorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:22:22.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Services\\TicketService.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Services\\TicketService.cs",
+              "RelativeToolTip": "LabWork12\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:19:01.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionDto.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\DTOs\\SessionDto.cs",
+              "RelativeDocumentMoniker": "LabWork12\\DTOs\\SessionDto.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\DTOs\\SessionDto.cs",
+              "RelativeToolTip": "LabWork12\\DTOs\\SessionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:16:00.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Contexts\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Contexts\\MovieDbContext.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Contexts\\MovieDbContext.cs",
+              "RelativeToolTip": "LabWork12\\Contexts\\MovieDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:16:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Models\\Session.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Models\\Session.cs",
+              "RelativeToolTip": "LabWork12\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:12:41.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Models\\Movie.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Models\\Movie.cs",
+              "RelativeToolTip": "LabWork12\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:12:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Models\\Visitor.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Models\\Visitor.cs",
+              "RelativeToolTip": "LabWork12\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:12:44.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\college\\LabWork12\\LabWork12\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Models\\Ticket.cs",
+              "ToolTip": "C:\\college\\LabWork12\\LabWork12\\Models\\Ticket.cs",
+              "RelativeToolTip": "LabWork12\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:12:43.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

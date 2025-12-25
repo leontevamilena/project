@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\repository\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\repository\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|c:\\users\\milena\\college\\zpd\\dbdapt-main\\dbdapt-main\\labworks\\labwork8\\labwork8\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC098EB-9EA2-484F-87D4-F4CA0A7E69D8}|labwork8\\LabWork8.csproj|solutionrelative:labwork8\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Repository\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "LabWork8\\Repository\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Program.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Program.cs",
+              "RelativeToolTip": "LabWork8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Repository\\VisitorRepository.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Repository\\VisitorRepository.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Repository\\VisitorRepository.cs",
+              "RelativeToolTip": "LabWork8\\Repository\\VisitorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:26.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Models\\Visitor.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Models\\Visitor.cs",
+              "RelativeToolTip": "LabWork8\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Models\\Genre.cs",
+              "RelativeToolTip": "LabWork8\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:21.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "LabWork8\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\Repository\\IRepository.cs",
+              "RelativeToolTip": "LabWork8\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:26.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "LabWork8\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\MILENA\\College\\ZPD\\DBDaPT-main\\DBDaPT-main\\labworks\\labwork8\\LabWork8\\DatabaseContext.cs",
+              "RelativeToolTip": "LabWork8\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:24:28.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
